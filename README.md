@@ -21,7 +21,7 @@ The dam is expected to secure drinking water supply, irrigate ~5,000 hectares of
 
 ## Objectives
 
-- Quantify and spatially map **soil erosion vulnerability** across the upper L2W
+- spatially map **soil erosion vulnerability** across the upper L2W
 - Identify and classify **erosion landforms** (sheet, rill, gully erosion)
 - Detect **priority intervention zones** for soil conservation and watershed management
 - Provide **spatial decision-support outputs** to reduce sediment yield and limit Sidi Abou Dam siltation
